@@ -12,5 +12,3 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC8lfnfLX_WuFdBBs7_zb0YA
-          comment_tag_name: YOUTUBE-CARDS
-          show_duration: true
