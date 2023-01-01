@@ -9,6 +9,8 @@ I'm a creative front developer and content creator. All coding projects / reposi
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Build a calculator with HTML, CSS & JavaScript 🧮 |](https://ytcards.demolab.com/?id=SqSKd9Czz_U&title=Build+a+calculator+with+HTML%2C+CSS+%26+JavaScript+%F0%9F%A7%AE+%7C&lang=en&timestamp=1672423082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Build a calculator with HTML, CSS & JavaScript 🧮 |")](https://www.youtube.com/watch?v=SqSKd9Czz_U)
+[![Random Password Generator in HTML, CSS & JavaScript 🔒](https://ytcards.demolab.com/?id=GIAEvPQJm_k&title=Random+Password+Generator+in+HTML%2C+CSS+%26+JavaScript+%F0%9F%94%92&lang=en&timestamp=1671368633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Random Password Generator in HTML, CSS & JavaScript 🔒")](https://www.youtube.com/watch?v=GIAEvPQJm_k)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@mirayatech."><img src="https://camo.githubusercontent.com/55abbc97246aefe476f97ebce0bbf60b5980e030965735c4353cf92d4161dee9/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d537562736372696265253230466f722532304d6f72652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465" /></a>
