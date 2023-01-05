@@ -4,6 +4,13 @@
 
 I'm a creative front developer and content creator. All coding projects / repositories are built from the ground up, from planning and designing all the way to solving real-life problems with code. The same applies to my videos, from creativity and planning all the way to finalizing the content with artistic touches. If you want to see more of my work, follow me on <a href="https://www.instagram.com/mirayatech/">Instagram</a>, <a href="https://www.tiktok.com/@mirayatech">TikTok</a>, and <a href="https://www.youtube.com/@mirayatech.">YouTube</a>.
 
+
+#### Socials ⤵️
+
+<a href="https://www.twitter.com/mirayadev/"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80px"/></a> <a href="https://www.tiktok.com/@mirayatech"><img src ="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="73px" /></a> <a href="https://www.instagram.com/mirayatech/"><img src ="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"  width="95px"  /></a>
+<a href="https://www.youtube.com/@mirayatech."><img src ="https://img.shields.io/badge/YouTube-E50914?style=for-the-badge&logo=youtube&logoColor=white"  width="80px"   /></a>
+ 
+
 #
 
 ### 📺 Latest YouTube Videos
