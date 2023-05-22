@@ -19,10 +19,6 @@ Html · css · Sass · Tailwind · JavaScript · TypeScript · React · React Na
 - [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
 - [6 months as a software engineer](https://mirayatech.hashnode.dev/6-months-as-a-software-engineer)
 
-### 📊 Stats
-
-![miraya's status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirayatech&theme=vue)
-
 ### 🥂 Reach me at
 
 <div>
@@ -40,8 +36,10 @@ Html · css · Sass · Tailwind · JavaScript · TypeScript · React · React Na
 
 </div>
 
+<br>
+
 <details>
- <summary><h3>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
+ <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
 I'm Miraya, a 20-year-old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2020. I fell in love with using my creativity to build things for the web.
 
