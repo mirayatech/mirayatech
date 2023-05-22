@@ -63,6 +63,10 @@ I'm a creative software engineer and content creator. I build coding projects fr
 - [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
 - [6 months as a software engineer](https://mirayatech.hashnode.dev/6-months-as-a-software-engineer)
 
+### 📊 Stats
+
+![miraya's status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirayatech&theme=vue)
+
 ### 🥂 Reach me at
 
 <div>
@@ -79,3 +83,16 @@ I'm a creative software engineer and content creator. I build coding projects fr
 <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
+
+<details>
+ <summary><h3> 💻 Miraya's Coding Journey</h3></summary>
+
+I'm Miraya, a 20-year-old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2020. I fell in love with using my creativity to build things for the web.
+
+I decided to drop out of high school and pursue a coding career, facing challenges along the way. Through persistence, self-discipline, and staying committed, I achieved my goal of becoming a frontend developer.
+
+Currently, I'm working as a frontend developer. I'm excited to keep learning and growing as a software engineer, and I'm constantly amazed by how powerful software is in helping us achieve great things.
+
+I'm currently learning mobile development with React Native. You can follow my journey on [instagram](https://www.instagram.com/mirayatech/).
+
+</details>
