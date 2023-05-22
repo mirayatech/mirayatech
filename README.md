@@ -8,7 +8,7 @@
 
 ### 🧘🏽‍♀️ About
 
-I'm a creative software engineer and content creator. I build coding projects from scratch, solving real-life problems with code. My Instagram and blog posts are crafted with love, honesty, and artistic touches.
+I'm a creative software engineer. I build coding projects from scratch, starting with planning and designing, and ending with solving real-life problems using code. Similarly, my blog posts, YouTube videos, and Instagram posts are crafted with love, honesty, and artistic touches. Follow my [Instagram]() to see my journey!
 
 ### 📚 Knowledge
 
@@ -85,7 +85,7 @@ I'm a creative software engineer and content creator. I build coding projects fr
 </div>
 
 <details>
- <summary><h3> 💻 Miraya's Coding Journey</h3></summary>
+ <summary><h3>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
 I'm Miraya, a 20-year-old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2020. I fell in love with using my creativity to build things for the web.
 
