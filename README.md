@@ -8,7 +8,7 @@
 
 ### 🧘🏽‍♀️ About
 
-I'm a creative software engineer. I build coding projects from scratch, starting with planning and designing, and ending with solving real-life problems using code. Similarly, my blog posts, YouTube videos, and Instagram posts are crafted with love, honesty, and artistic touches. Follow my [Instagram]() to see my journey!
+I'm a creative software engineer. I build coding projects from scratch, starting with planning and designing, and ending with solving real-life problems using code. Similarly, my blog posts, YouTube videos, and Instagram posts are crafted with love, honesty, and artistic touches. Follow my [Instagram](https://www.instagram.com/stories/mirayatech/3108264403678388531/) to see my journey!
 
 ### 📚 Knowledge
 
