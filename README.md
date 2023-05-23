@@ -1,10 +1,10 @@
-![banner](./assets/banner.png)
-
 <div align='center'>
 
 `Digital Craftswoman (Developer/Creator)`
 
 </div>
+
+![banner](./assets/banner.png)
 
 ### 🧘🏽‍♀️ About
 
