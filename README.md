@@ -12,7 +12,7 @@ I'm a creative software engineer. I build coding projects from scratch, starting
 
 ### 📚 Knowledge
 
-Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · React Native · Next.js · Framer-Motion · Firebase · Cypress · Playwright 
+Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · React Native · Next.js · Framer-Motion · Firebase · Cypress · Playwright · Git
 
 ### 📖 Latest blog posts
 
