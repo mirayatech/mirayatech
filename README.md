@@ -19,7 +19,7 @@ Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · Re
 - [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
 - [6 months as a software engineer](https://mirayatech.hashnode.dev/6-months-as-a-software-engineer)
 
-### 🥂 Reach me at
+<!-- ### 🥂 Reach me at
 
 <div>
 <!-- BLOG -->
@@ -30,11 +30,10 @@ Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · Re
 <!-- <a href="https://www.linkedin.com/in/mirayaabrodi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- INSTAGRAM -->
 <!-- #7289DA -->
- <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@mirayatech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<!--  <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@mirayatech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
- </div>
+ </div> -->
 
-<br>
 
 <details>
  <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
