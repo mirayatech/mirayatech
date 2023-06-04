@@ -21,7 +21,7 @@ Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · Re
 
 ### 🥂 Reach me at
 
-<!-- <div>
+<div>
 <!-- BLOG -->
 <!-- <a href="https://mirayatech.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <!-- YOUTUBE -->
@@ -32,7 +32,7 @@ Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · Re
 <!-- #7289DA -->
  <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@mirayatech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
-<!-- </div>
+ </div>
 
 <br>
 
