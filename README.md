@@ -16,6 +16,7 @@ Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · Re
 
 ### 📖 Latest blog posts
 
+- [Book review: Lessons from The Pragmatic Programmer](https://mirayatech.hashnode.dev/book-review-lessons-from-the-pragmatic-programmer)
 - [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
 - [6 months as a software engineer](https://mirayatech.hashnode.dev/6-months-as-a-software-engineer)
 
