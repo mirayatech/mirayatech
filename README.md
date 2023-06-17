@@ -44,6 +44,6 @@ I decided to drop out of high school and pursue a coding career, facing challeng
 
 Currently, I'm working as a frontend developer. I'm excited to keep learning and growing as a software engineer, and I'm constantly amazed by how powerful software is in helping us achieve great things.
 
-I'm currently learning mobile development with React Native. You can follow my journey on [instagram](https://www.instagram.com/mirayatech/).
+
 
 </details>
