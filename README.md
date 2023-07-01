@@ -38,7 +38,7 @@ A11y · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-
 <details>
  <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
-I'm Miraya, a 20 year old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2020. I fell in love with using my creativity to build things for the web.
+I'm Miraya, a 20 year old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2019. I fell in love with using my creativity to build things for the web.
 
 I decided to drop out of high school and pursue a coding career, facing challenges along the way. Through persistence, self-discipline, and staying committed, I achieved my goal of becoming a frontend developer.
 
