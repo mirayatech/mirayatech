@@ -6,7 +6,7 @@
 
 ![banner](./assets/banner.png)
 
-### 🧘🏽‍♀️ About
+### 🙆🏽‍♀️ About
 
 I'm a creative software engineer. I build coding projects from scratch, starting with planning and designing, and ending with solving real-life problems using code. Similarly, my blog posts and Instagram posts are crafted with love, honesty, and artistic touches. Follow my [instagram (@mirayatech)](https://www.instagram.com/mirayatech/) to see my journey!
 ### 📚 Knowledge
