@@ -14,6 +14,7 @@ I'm a creative software engineer. I build coding projects from scratch, starting
 A11y · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components
 
 ### 📖 Latest blog posts
+- [Common Accessibility Errors](https://mirayatech.hashnode.dev/common-accessibility-errors)
 - [Must-Read Book: Engineers Survival Guide](https://mirayatech.hashnode.dev/must-read-book-engineers-survival-guide)
 - [Book review: Lessons from The Pragmatic Programmer](https://mirayatech.hashnode.dev/book-review-lessons-from-the-pragmatic-programmer)
 - [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
