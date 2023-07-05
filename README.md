@@ -35,7 +35,6 @@ A11y · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-
 
  </div> -->
 
-
 <details>
  <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
