@@ -34,7 +34,6 @@ A11y · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-
 <!--  <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@mirayatech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
  </div> -->
-
 <details>
  <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
