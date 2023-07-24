@@ -9,9 +9,10 @@
 ### 🙆🏽‍♀️ About 
 
 I'm a Frontend Developer. I enjoy building side projects, writing blog posts and reading books. Follow my [instagram (@mirayatech)](https://www.instagram.com/mirayatech/) to see my journey!
+
 ### 📚 Knowledge
 
-Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components
+Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components · Zustand
 
 ### 📖 Latest blog posts
 - [Common Accessibility Errors](https://mirayatech.hashnode.dev/common-accessibility-errors)
