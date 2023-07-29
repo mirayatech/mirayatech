@@ -18,10 +18,7 @@ Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · 
 - [Client Side Rendering, Server Side Rendering, Static Site Generation](https://mirayatech.hashnode.dev/csr-ssr-ssg)
 - [Automated testing and why it's important](https://mirayatech.hashnode.dev/automated-testing-and-why-its-important)
 - [Common Accessibility Errors](https://mirayatech.hashnode.dev/common-accessibility-errors)
-- [Must-Read Book: Engineers Survival Guide](https://mirayatech.hashnode.dev/must-read-book-engineers-survival-guide)
-- [Book review: Lessons from The Pragmatic Programmer](https://mirayatech.hashnode.dev/book-review-lessons-from-the-pragmatic-programmer)
-- [JavaScript Fundamentals: A Simplified Guide](https://mirayatech.hashnode.dev/javascript-fundamentals-a-simplified-guide)
-- [6 months as a software engineer](https://mirayatech.hashnode.dev/6-months-as-a-software-engineer)
+- [React Hooks Simplified](https://mirayatech.hashnode.dev/react-hooks-simplified)
 
 <!-- ### 🥂 Reach me at
 
