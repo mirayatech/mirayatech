@@ -8,7 +8,7 @@
 
 ### 🙆🏽‍♀️ About 
 
-I'm a Frontend Developer. I enjoy building side projects, writing blog posts and reading books. Follow my [instagram (@mirayatech)](https://www.instagram.com/mirayatech/) to see my journey!
+I'm a Frontend Developer. I enjoy building side projects, writing blog posts and reading books. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!
 
 ### 📚 Knowledge
 
