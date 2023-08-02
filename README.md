@@ -12,7 +12,7 @@ I'm a Frontend Developer. I enjoy building side projects, writing blog posts and
 
 ### 📚 Knowledge
 
-Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components · Zustand
+Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components · Zustand · Jira
 
 ### 📖 Latest blog posts
 - [Client Side Rendering, Server Side Rendering, Static Site Generation](https://mirayatech.hashnode.dev/csr-ssr-ssg)
