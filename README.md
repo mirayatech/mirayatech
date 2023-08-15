@@ -7,8 +7,7 @@
 ![banner](./assets/banner.png)
 
 ### 🙆🏽‍♀️ About 
-
-I'm a Frontend Developer. I enjoy building side projects, writing blog posts, and reading books. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!
+I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Currently, I'm learning GraphQL. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!
 
 ### 📚 Knowledge
 
@@ -16,25 +15,12 @@ Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · 
 
 ### 📖 Latest blog posts
 - [How React works behind the Scenes](https://mirayatech.hashnode.dev/how-react-works-behind-the-scenes)
-- [Client Side Rendering, Server Side Rendering, Static Site Generation](https://mirayatech.hashnode.dev/csr-ssr-ssg)
+- [A Simple Explanation of Web Rendering Strategies](https://mirayatech.hashnode.dev/csr-ssr-ssg)
 - [Automated testing and why it's important](https://mirayatech.hashnode.dev/automated-testing-and-why-its-important)
 - [Common Accessibility Errors](https://mirayatech.hashnode.dev/common-accessibility-errors)
 - [React Hooks Simplified](https://mirayatech.hashnode.dev/react-hooks-simplified)
 
-<!-- ### 🥂 Reach me at
 
-<div>
-<!-- BLOG -->
-<!-- <a href="https://mirayatech.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<!-- YOUTUBE -->
-<!-- <a href="https://www.youtube.com/@mirayatech"><img src="https://img.shields.io/badge/YouTube-DF2B25?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<!-- LINKEDIN -->
-<!-- <a href="https://www.linkedin.com/in/mirayaabrodi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- INSTAGRAM -->
-<!-- #7289DA -->
-<!--  <a href="https://www.instagram.com/mirayatech/"><img src="https://img.shields.io/badge/Instagram-bc7bd1?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@mirayatech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-
- </div> -->
 <details>
  <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
 
