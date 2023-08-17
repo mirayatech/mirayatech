@@ -6,7 +6,7 @@
 
 ![banner](./assets/banner.png)
 
-### 🙆🏽‍♀️ About 
+### 🙆🏽‍♀️ About
 I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Currently, I'm learning GraphQL. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!
 
 ### 📚 Knowledge
