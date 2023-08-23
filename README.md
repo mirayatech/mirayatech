@@ -4,7 +4,8 @@
 
 </div>
 
-![banner](https://github.com/mirayatech/mirayatech/assets/71933266/38024cbb-d1ac-48b4-ab99-9e2f3e688f72)
+![banner (1)](https://github.com/mirayatech/mirayatech/assets/71933266/53150f43-bc2f-4e27-8e7f-a760da9e199b)
+
 
 
 ### 🙆🏽‍♀️ About
