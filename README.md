@@ -4,7 +4,7 @@
 
 </div>
 
-![banner (1) (1)](https://github.com/mirayatech/mirayatech/assets/71933266/0721f9db-b4d7-4722-937c-baeec121d933)
+![banner (1)](https://github.com/mirayatech/mirayatech/assets/71933266/315be069-0bc2-43e4-8dba-80561234753b)
 
 ### 🙆🏽‍♀️ About
 I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Currently, I'm learning GraphQL. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!
