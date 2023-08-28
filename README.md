@@ -7,7 +7,7 @@
 ![banner (1) (1)](https://github.com/mirayatech/mirayatech/assets/71933266/127a3855-85ba-47c1-9dc4-055c11f41e62)
 
 ### 🙆🏽‍♀️ About
-I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey! 
+I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!  
 
 ### 📚 Knowledge
 
