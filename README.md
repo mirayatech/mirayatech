@@ -1,35 +1,29 @@
-<div align='center'>
+### Hey, I'm Miraya 👋 
 
-`Digital Craftswoman (Developer/Creator)`
+I'm a 20 year old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
-</div>
+- Check out my [website](https://www.miraya.tech/) to learn more about me.
+- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/mirayatech) and [LinkedIn](https://www.linkedin.com/in/mirayaabrodi).
+- Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
 
-![banner (1) (1)](https://github.com/mirayatech/mirayatech/assets/71933266/127a3855-85ba-47c1-9dc4-055c11f41e62)
+## 🔭 Current Endeavors
 
-### 🙆🏽‍♀️ About
-I'm a Frontend Developer who enjoys building side projects, writing blog posts, and reading books. Follow my [Instagram](https://www.instagram.com/mirayatech/) to see my journey!  
+I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-### 📚 Knowledge
+- I'm engaged in exciting fullstack projects.
+- I'm exploring Nest.js to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
 
-Accessibility · Html · Css · Sass · Tailwind · JavaScript · TypeScript · Material-UI · React · Next.js · Framer-Motion · Firebase · Git · Cypress · Playwright · Storybook · Styled-Components · Zustand · Jira  
+## ✨ Fun Facts
 
-### 📖 Latest blog posts
-- [How React works behind the Scenes](https://mirayatech.hashnode.dev/how-react-works-behind-the-scenes)
-- [A Simple Explanation of Web Rendering Strategies](https://mirayatech.hashnode.dev/csr-ssr-ssg)
-- [Automated testing and why it's important](https://mirayatech.hashnode.dev/automated-testing-and-why-its-important)
-- [Common Accessibility Errors](https://mirayatech.hashnode.dev/common-accessibility-errors)
-- [React Hooks Simplified](https://mirayatech.hashnode.dev/react-hooks-simplified)
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be an astronaut.
+- Html was my first programming language.
+- I love using Mac after switching from Linux.
 
+## 📫 Contact
 
-<details>
- <summary><h4>👩🏽‍💻 Miraya's Coding Journey</h3></summary>
-
-I'm Miraya, a 20 year old self-taught frontend developer. I discovered my passion for coding when I saw my brother doing it in 2019. I fell in love with using my creativity to build things for the web.
-
-I decided to drop out of high school and pursue a coding career, facing challenges along the way. Through persistence, self-discipline, and staying committed, I achieved my goal of becoming a frontend developer.
-
-Currently, I'm working as a frontend developer. I'm excited to keep learning and growing as a software engineer, and I'm constantly amazed by how powerful software is in helping us achieve great things.
-
-
-
-</details>
+ For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ 
+ For professional inquiries, reach out via email at [mirayatech.contact@gmail.com](mailto:mirayatech.contact@gmail.com). 
