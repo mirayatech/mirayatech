@@ -1,4 +1,4 @@
-<h3>Hey, I'm Miraya 👋</h3>
+<h3 color="white" style"color:white;">Hey, I'm Miraya 👋</h3>
 
 I'm a 20 year old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
