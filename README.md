@@ -1,6 +1,6 @@
 ### Hey, I'm Miraya 👋 
 
-I'm a 20 year old developer based in Germany, and I'm passionate about crafting digital experiences. 
+I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.miraya.tech/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
