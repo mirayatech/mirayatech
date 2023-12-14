@@ -12,7 +12,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
 
 - I'm engaged in exciting fullstack projects.
-- I'm exploring Python to enhance my skill set.
+- I'm exploring different tools and libraries to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
