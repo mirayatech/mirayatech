@@ -25,4 +25,3 @@ I'm currently working as a fullstack developer in Germany, where my journey invo
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
  
- For professional inquiries, reach out via email at [mirayatech.contact@gmail.com](mailto:mirayatech.contact@gmail.com). 
