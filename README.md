@@ -1,4 +1,4 @@
-### Hey, I'm Miraya 👋 
+### Hey, I'm Miraya 👋🏽 
 
 I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
@@ -7,14 +7,18 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 - Stay updated with my journey on [Instagram](https://www.instagram.com/mirayatech), [LinkedIn](https://www.linkedin.com/in/mirayaabrodi) and [YouTube](https://www.youtube.com/@mirayatech).
 - Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
 
-## 🔭 Current Endeavors 
+## 📦 Toolbox
 
-I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
 
-- I'm engaged in exciting fullstack projects.
-- I'm exploring different tools and libraries to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+**Backend Development:** `Nest.js` `GraphQL` `Firebase`
 
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+ 
 ## ✨ Fun Facts 
 
 - Demon Slayer is my favorite anime.
