@@ -14,7 +14,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase`
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
