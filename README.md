@@ -7,7 +7,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 - Stay updated with my journey on [Instagram](https://www.instagram.com/mirayatech), [LinkedIn](https://www.linkedin.com/in/mirayaabrodi) and [YouTube](https://www.youtube.com/@mirayatech).
 - Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
 - In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better fullstack developer.
-
+ 
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
