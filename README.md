@@ -5,7 +5,7 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 - Check out my [website](https://www.miraya.tech/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
 - Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer.
+- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
  
 ## 📦 Toolbox
 
@@ -27,5 +27,5 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
  
