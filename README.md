@@ -1,31 +1,17 @@
-### Hey, I'm Miraya 👋🏽  
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
+I'm [**Miraya**](https://miraya.tech), a Senior Frontend Engineer from Germany.
 
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
- 
-## 📦 Toolbox
+As a software engineer, I like combining my technical knowledge with design to make beautiful and efficient applications. 
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+My goal is to create scalable and user-friendly products. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories) and create tech-related Instagram posts (70,000 followers and counting).
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
-
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
- 
-## ✨ Fun Facts 
-
+#### Fun Facts:
+- I don't like coffee.
 - Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
 - I love using Mac after switching from Linux.
 
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
- 
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/mirayaabrodi) 
