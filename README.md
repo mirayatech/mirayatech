@@ -13,5 +13,5 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 - Demon Slayer is my favorite anime.
 - I love using Mac after switching from Linux.
 
-#### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/mirayaabrodi) 
+#### Contact
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
