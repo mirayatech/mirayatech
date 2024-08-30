@@ -8,7 +8,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 
 #### Fun Facts:
-- I don't like coffee.
+- I don't like coffee or tea.
 - Demon Slayer is my favorite anime.
 - I love using Mac after switching from Linux.
 
