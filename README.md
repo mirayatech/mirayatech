@@ -1,20 +1,12 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
- 
-I'm [**Miraya**](https://www.linkedin.com/in/mirayatech), a design engineer based in Germany.   
 
-I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+I’m [**Miraya**](https://www.miraya.tech), a frontend design engineer based in Germany.
 
-Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects (with over 150 in private repositories) and cand create tech-related [Instagram](https://www.instagram.com/mirayatech/) posts, where I have 95K followers and growing.
+I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing [blog posts](https://mirayatech.hashnode.dev/) and sharing tech-related content on social media (over 130K combined followers and counting).
 
 #### Fun Facts:
-- I don't like coffee or tea.
-- Outside of coding, I enjoy drawing.
-- Demon Slayer is my favorite anime.
 
-
-
-
-
-
-
+* I don’t like coffee or tea.
+* Demon Slayer is my favorite anime.
