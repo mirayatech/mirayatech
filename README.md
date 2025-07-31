@@ -4,7 +4,7 @@ I’m [**Miraya**](https://www.miraya.tech), a frontend design engineer based in
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing [blog posts](https://mirayatech.hashnode.dev/) and sharing tech-related content on social media (over 130K combined followers and counting).
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing [blog posts](https://mirayatech.hashnode.dev/) and sharing tech-related content on social media (over 160K combined followers and counting).
 
 #### Fun Facts:
 
